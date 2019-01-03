@@ -9,9 +9,9 @@ use AlibabaCloud\VersionResolverTrait;
  *
  * @package   AlibabaCloud\Drds
  *
- * @method V20171016\DrdsApiResolver v20171016()
+ * @method static V20171016\DrdsApiResolver v20171016()
  */
-class Drds
+class DrdsVersion
 {
     use VersionResolverTrait;
 }
